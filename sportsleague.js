@@ -1,5 +1,6 @@
 //Initialize some global variables 
 let leagueTeams = [];
+
 //Factory Function for creating sports teams
 function createTeam(name, skill) {
     return{
