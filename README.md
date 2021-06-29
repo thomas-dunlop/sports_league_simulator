@@ -4,7 +4,7 @@
 ## Features
 - A factory function for creating sports teams. 
 - A function for adding said sports team to the league. 
-- A function for simulating a game. 
+- A function for simulating a game. Game outcomes are assigned statistically based on skill difference (so the underdog can win!).
 
 ## Usage
 - To run the program, donwload the file and run locally using your terminal. Using node.js, call the `node sportsleague.js` command on the terminal. 
